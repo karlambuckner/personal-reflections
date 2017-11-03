@@ -32,6 +32,9 @@ _The following are things that I struggle with and would like to improve or thin
 
 ![img3](https://user-images.githubusercontent.com/27794720/32390994-b64c4a26-c08d-11e7-8811-56156815ddce.jpg)
 
+## Researching the Interview Process
+
+_I went to Powell's and found books on the coding interview and how to be a better programmer and approach problems with better strategies. The book "The Pragmatic Programmer" was recommended at a Ruby Brigade meetup at New Relic so I got that for future reading. I found an awesome diagram of how to go through the process of learing to program to getting a job. I realized I have a lot of work I can still do. Making a resume is something I know is to come and will need to do. Practicing technical interviews and practicing behaviorial interview questions is definitely something I need to spend 10-15 minutes a day doing to feel more comfortable and confident._
 
 ### License
 
