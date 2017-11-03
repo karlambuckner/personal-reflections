@@ -43,9 +43,13 @@ _I went to Powell's and found books on the coding interview and how to be a bett
 
 ## Updating my Portfolio 
 
-_I didn't realize just how far I have come until I looked back at my old portfolio to work on updating it. Here is screenshot of the simple html/css portfolio project I did in Intro to Programming:_
+_I didn't realize just how far I have come until I looked back at my old portfolio to work on updating it. Here is a screenshot of the simple html/css portfolio project I did in Intro to Programming:_
 
 ![screen shot 2017-11-03 at 2 11 18 pm](https://user-images.githubusercontent.com/27794720/32396103-4a3d17e8-c0a1-11e7-908d-aac01bf299d5.png)
+
+_I made several changes to my Portfolio. First, I made the styling more professional by toning down the colors and adding a font. I updated the information in my about me to be more career/programming focused. I added links to my more recent github projects that I am proud of. I added JavaScript files and updated my README. To see commits for this project visit https://github.com/karlambuckner/portfolio I plan on updating it further, especially when done with Rails and after cleaning up my github. Below is a screenshot of my updated portfolio:_
+
+![screen shot 2017-11-03 at 4 08 05 pm](https://user-images.githubusercontent.com/27794720/32399186-4d2e8be8-c0b1-11e7-89c0-d520d87461fd.png)
 
 ### License
 
