@@ -26,11 +26,11 @@ _The following are things that I struggle with and would like to improve or thin
 
 ## White Board Practice
 
-![alt text](http://url/to/img1.jpg)
+![alt text](http://url/to/IMG1.jpg)
 
-![alt text](http://url/to/img2.jpg)
+![alt text](http://url/to/IMG2.jpg)
 
-![alt text](http://url/to/img3.jpg)
+![alt text](http://url/to/IMG3.jpg)
 
 ### License
 
