@@ -26,6 +26,8 @@ _The following are things that I struggle with and would like to improve or thin
 
 ## White Board Practice
 
+_I have had very little experience with White Board Technical Interviews. To feel more confident about them, I worked out a couple JavaScript problems I found online. Instead of trying to do it on my own, I worked them out the way that was given so I could go through and see exactly what needs to happen and the best approach of solving that problem. That way, I can apply it to the problems I do on my own later and feel more confident in doing so. I think it was important for me to see what is expected and truly understand the process. Because I knew the code was correct, I went back through and could confidently talk through what was happening._
+
 ![img1](https://user-images.githubusercontent.com/27794720/32390881-58447656-c08d-11e7-956e-083273736134.jpg)
 
 ![img2](https://user-images.githubusercontent.com/27794720/32390993-b47eacac-c08d-11e7-806f-ad5ee47fdc26.jpg)
@@ -34,7 +36,7 @@ _The following are things that I struggle with and would like to improve or thin
 
 ## Researching the Interview Process
 
-_I went to Powell's and found books on the coding interview and how to be a better programmer and approach problems with better strategies. The book "The Pragmatic Programmer" was recommended at a Ruby Brigade meetup at New Relic so I got that for future reading. I found an awesome diagram of how to go through the process of learing to program to getting a job. I realized I have a lot of work I can still do. Making a resume is something I know is to come and will need to do. Practicing technical interviews and practicing behaviorial interview questions is definitely something I need to spend 10-15 minutes a day doing to feel more comfortable and confident._
+_I went to Powell's and found books on the coding interview and how to be a better programmer and approach problems with better strategies. The book "The Pragmatic Programmer" was recommended at a Ruby Brigade meetup at New Relic so I got that for future reading. I found an awesome diagram of how to go through the process of learing to program to getting a job. I realized I have a lot of work I can still do. Making a resume is something I know is to come and will need to do. Practicing technical interviews and practicing behaviorial interview questions is definitely something I need to spend 10-15 minutes a day doing to feel more comfortable and confident. I also need to clean up my Github, because that's essentaily its own resume of my work. This is something I could spend an hour a week doing._
 
 ![img4](https://user-images.githubusercontent.com/27794720/32394494-8d79c83c-c09a-11e7-96ea-cf00d329c357.JPG)
 
