@@ -26,11 +26,12 @@ _The following are things that I struggle with and would like to improve or thin
 
 ## White Board Practice
 
-![alt text](http://url/to/IMG1.jpg)
+![img1](https://user-images.githubusercontent.com/27794720/32390881-58447656-c08d-11e7-956e-083273736134.jpg)
 
-![alt text](http://url/to/IMG2.jpg)
+![img2](https://user-images.githubusercontent.com/27794720/32390993-b47eacac-c08d-11e7-806f-ad5ee47fdc26.jpg)
 
-![alt text](http://url/to/IMG3.jpg)
+![img3](https://user-images.githubusercontent.com/27794720/32390994-b64c4a26-c08d-11e7-8811-56156815ddce.jpg)
+
 
 ### License
 
