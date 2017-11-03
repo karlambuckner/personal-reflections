@@ -28,21 +28,18 @@ _The following are things that I struggle with and would like to improve or thin
 
 _I have had very little experience with White Board Technical Interviews. To feel more confident about them, I worked out a couple JavaScript problems I found online. Instead of trying to do it on my own, I worked them out the way that was given so I could go through and see exactly what needs to happen and the best approach of solving that problem. That way, I can apply it to the problems I do on my own later and feel more confident in doing so. I think it was important for me to see what is expected and truly understand the process. Because I knew the code was correct, I went back through and could confidently talk through what was happening._
 
-![img1](https://user-images.githubusercontent.com/27794720/32390881-58447656-c08d-11e7-956e-083273736134.jpg)
-
-![img2](https://user-images.githubusercontent.com/27794720/32390993-b47eacac-c08d-11e7-806f-ad5ee47fdc26.jpg)
-
-![img3](https://user-images.githubusercontent.com/27794720/32390994-b64c4a26-c08d-11e7-8811-56156815ddce.jpg)
+![screen shot 2017-11-03 at 2 20 36 pm](https://user-images.githubusercontent.com/27794720/32396459-8de740d0-c0a2-11e7-93f4-21652120363f.png)
+![screen shot 2017-11-03 at 2 20 49 pm](https://user-images.githubusercontent.com/27794720/32396460-8dffe504-c0a2-11e7-8dbb-e38b09cd5531.png)
 
 ## Researching the Interview Process
 
 _I went to Powell's and found books on the coding interview and how to be a better programmer and approach problems with better strategies. The book "The Pragmatic Programmer" was recommended at a Ruby Brigade meetup at New Relic so I got that for future reading. I found an awesome diagram of how to go through the process of learing to program to getting a job. I realized I have a lot of work I can still do. Making a resume is something I know is to come and will need to do. Practicing technical interviews and practicing behaviorial interview questions is definitely something I need to spend 10-15 minutes a day doing to feel more comfortable and confident. I also need to clean up my Github, because that's essentaily its own resume of my work. This is something I could spend an hour a week doing._
 
-![img4](https://user-images.githubusercontent.com/27794720/32394494-8d79c83c-c09a-11e7-96ea-cf00d329c357.JPG)
+![screen shot 2017-11-03 at 2 18 44 pm](https://user-images.githubusercontent.com/27794720/32396422-590afb36-c0a2-11e7-8652-7176501524cb.png)
 
-![img5](https://user-images.githubusercontent.com/27794720/32394497-8e1b3adc-c09a-11e7-8b2a-c9fd76523b96.jpg)
+![screen shot 2017-11-03 at 2 19 43 pm](https://user-images.githubusercontent.com/27794720/32396461-8e1709d2-c0a2-11e7-8722-feed50a790a6.png)
 
-![img6](https://user-images.githubusercontent.com/27794720/32394498-8e33b76a-c09a-11e7-8c26-7c536ca9419f.jpg)
+![screen shot 2017-11-03 at 2 19 57 pm](https://user-images.githubusercontent.com/27794720/32396462-8e2e2b62-c0a2-11e7-8f30-79d233ba41c9.png)
 
 ## Updating my Portfolio 
 
