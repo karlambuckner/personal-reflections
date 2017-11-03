@@ -45,6 +45,7 @@ _I went to Powell's and found books on the coding interview and how to be a bett
 
 _I didn't realize just how far I have come until I looked back at my old portfolio to work on updating it. Here is screenshot of the simple html/css portfolio project I did in Intro to Programming:_
 
+![screen shot 2017-11-03 at 2 11 18 pm](https://user-images.githubusercontent.com/27794720/32396103-4a3d17e8-c0a1-11e7-908d-aac01bf299d5.png)
 
 ### License
 
