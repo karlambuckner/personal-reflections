@@ -24,6 +24,14 @@ _The following are things that I struggle with and would like to improve or thin
 * _Completing projects and cleaning up my Github_
 * _Updating my Portfolio_
 
+## White Board Practice
+
+![alt text](http://url/to/img1.jpg)
+
+![alt text](http://url/to/img2.jpg)
+
+![alt text](http://url/to/img3.jpg)
+
 ### License
 
 Copyright (c) 2017 **_Karla Buckner_**
