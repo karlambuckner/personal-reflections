@@ -36,6 +36,14 @@ _The following are things that I struggle with and would like to improve or thin
 
 _I went to Powell's and found books on the coding interview and how to be a better programmer and approach problems with better strategies. The book "The Pragmatic Programmer" was recommended at a Ruby Brigade meetup at New Relic so I got that for future reading. I found an awesome diagram of how to go through the process of learing to program to getting a job. I realized I have a lot of work I can still do. Making a resume is something I know is to come and will need to do. Practicing technical interviews and practicing behaviorial interview questions is definitely something I need to spend 10-15 minutes a day doing to feel more comfortable and confident._
 
+![img4](https://user-images.githubusercontent.com/27794720/32394494-8d79c83c-c09a-11e7-96ea-cf00d329c357.JPG)
+
+![img5](https://user-images.githubusercontent.com/27794720/32394497-8e1b3adc-c09a-11e7-8b2a-c9fd76523b96.jpg)
+
+![img6](https://user-images.githubusercontent.com/27794720/32394498-8e33b76a-c09a-11e7-8c26-7c536ca9419f.jpg)
+
+![img7](https://user-images.githubusercontent.com/27794720/32394499-8e4a0a2e-c09a-11e7-844c-c61f4fd2b477.jpg)
+
 ### License
 
 Copyright (c) 2017 **_Karla Buckner_**
