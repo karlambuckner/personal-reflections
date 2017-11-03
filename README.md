@@ -16,12 +16,13 @@ _Then a friend told me about Epicodus and now months later it's hard to believe 
 
 ## Room for Improvement
 
-_The following are things that I struggle with and would like to improve_
+_The following are things that I struggle with and would like to improve or things I feel need attention_
 
 * _Talking confidently about my code_
 * _Technical interviews/white boarding_
 * _Getting back to the basics and fully understanding the terminology_
-
+* _Completing projects and cleaning up my Github_
+* _Updating my Portfolio_
 
 ### License
 
